@@ -1,0 +1,3 @@
+Info: 
+
+De map tone_generate bevat een arduino code met vier voorbeelden van melodiën. De arduino code maakt gebruik van de library 'Pitches. Uit dit voorbeeld kan je mogelijks inspiratie halen voor nieuwe melodiën. 
